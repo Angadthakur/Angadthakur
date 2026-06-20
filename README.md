@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 💫 About Me:
 🔭 I’m currently working on <br>- Building full-stack Flutter applications<br>- Improving my DSA & System Design skills<br><br>👯 I’m looking to collaborate on<br>- Flutter projects<br>- Open Source<br><br>🌱 I’m currently learning<br>- Advanced Flutter<br>- FastAPI<br><br>💬 Ask me about<br>- Flutter<br>- Dart<br>- Firebase<br>- Mobile App Development<br>- Python<br><br>⚡ Fun fact<br>Dark mode isn't a preference, it's a lifestyle.
 
